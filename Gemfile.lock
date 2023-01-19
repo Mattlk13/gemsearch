@@ -30,7 +30,7 @@ GEM
     picky-client (4.22.0)
       activesupport
       yajl-ruby (~> 1.2)
-    rack (1.5.2)
+    rack (1.6.13)
     rack-protection (1.5.3)
       rack
     rack_fast_escape (2009.06.24)
